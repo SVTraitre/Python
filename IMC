@@ -1,0 +1,7 @@
+print ("IMC")
+print ("Masse kg")
+masse = input()
+print ("Taille cm")
+taille = input()
+IMC = masse / taille*taille
+print (IMC)
